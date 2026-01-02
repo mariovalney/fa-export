@@ -1,0 +1,17 @@
+{
+  "name": "fa-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/start.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0",
+    "sharp": "^0.34.5"
+  }
+}
